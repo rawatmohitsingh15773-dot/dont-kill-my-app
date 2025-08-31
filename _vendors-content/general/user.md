@@ -1,4 +1,4 @@
----
+mojalhsns---
 manufacturer:
     - general
 ---
